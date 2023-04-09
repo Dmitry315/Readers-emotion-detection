@@ -1,4 +1,7 @@
 <h1>Readers' emotion detection</h1>
+
+Bi-LSTM attention model research <a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00614-2">Readers’ affect: predicting and understanding readers’ emotions with deep learning. Anoop et al.</a>
+
 <h2>Datasets for readers' emotion detection and code for preprocess</h2>
 <p>Dataset must be extracted and pathes in notebook must be adapted.</p>
 <p>First notebook to run - semeval2007. It will preprocess data into csv files.</p>
